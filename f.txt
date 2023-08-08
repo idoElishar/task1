@@ -1,1 +1,1 @@
-git status
+hello world we are kodkod
